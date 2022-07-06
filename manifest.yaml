@@ -53,6 +53,10 @@ groups:
     pools:
     - spinner-sim
     
+  sutton:
+    pools:
+    - penduinos  
+    
   camera-test:
      pools:
      - camera-test-A
