@@ -52,7 +52,6 @@ groups:
   everyone:
     pools:
     - spinner-sim
-    - penduinos
     
   camera-test:
      pools:
