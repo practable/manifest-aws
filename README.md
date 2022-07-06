@@ -134,20 +134,7 @@ commands:
 What next? [l/n/r/s/t/u]:
 ```
 Practice run
-0. issue `s` and copy the datetime from the status message
-```
-{
-	"last_booking_ends": 1657100538,
-	"msg": "Open for bookings"
-}
-```
-0. in a separate terminal, `date -d @xxxxx` where xxxx is the datetime (remember the `@`!)
-
-```
-$ date -d @1657100538
-Wed  6 Jul 10:42:18 BST 2022
-```
-0. Obviously there are no relevant bookings running on our test server, but this shows the approach.
+0. issue `s` and check the `last_booking_ends` date/time. Obviously there are no relevant bookings running on our test server, but this shows the approach.
 0. use `r` to delete all existing manifest entries, confirm with `yes`, then check the status
 You will now see 
 ```
@@ -400,9 +387,7 @@ Note - if the test fails for any reason, or throws a seg-fault, then the manifes
 
 Current operating procedure is to 
 0. run `serve.sh`
-0. issue `s` and copy the datetime
-0. in a separate terminal, `date -d @xxxxx` where xxxx is the datetime (remember the `@`!)
-0. if there are no current bookings, then proceed (ok to proceed if the latest booking is your own and you can see there are no other bookings in the system - that is out of scope for this repo though). If there date is more than 1 minute into the future, then it is a human booking, else it is just a spinner demo booking. You can ignore the spinner demo bookings for this purpose.
+0. issue `s` and check the `last_booking_ends` date/time. if there are no current bookings, then proceed (ok to proceed if the latest booking is your own and you can see there are no other bookings in the system - that is out of scope for this repo though). If there date is more than 1 minute into the future, then it is a human booking, else it is just a spinner demo booking. You can ignore the spinner demo bookings for this purpose.
 0. open the booking page for the group you are modifying, e.g. [everyone](https://book.practable.io) and check it is alright, before you start.
 0. use `r` to delete all existing manifest entries, confirm with `yes`
 0. use `u` to upload your (tested) manifest, confirm with `y`
