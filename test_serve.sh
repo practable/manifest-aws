@@ -142,7 +142,7 @@ then
 	then
 		export BOOKTOKEN_ADMIN=true
 		export BOOKUPLOAD_TOKEN=$(book token)
-		book upload ../manifest/manifest.yaml
+		book upload manifest.yaml
 	else
 		echo "wise choice, aborting"
 	fi
