@@ -5,6 +5,10 @@ This repo contains the latest version of the manifest for the live service, and 
 
 ## Pre-requisites
 
+These scripts are intended for use on linux systems. Windows is not not currently supported. MacOS may work (untested).
+
+### practable/relay/book
+
 Build the `book` command from [relay](https://github.com/practable/relay.git) and put on your path, e.g. `/usr/local/bin`
 
 ```
@@ -43,6 +47,9 @@ Flags:
 Use "book [command] --help" for more information about a command.
 ```
 
+### JQ
+
+See [installation instructions](https://linuxhint.com/bash_jq_command/) for `jq`, which we use to read and print jwt tokens and dates in the booking status.
 
 ## Authorization
 

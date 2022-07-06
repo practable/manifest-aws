@@ -127,6 +127,13 @@ then
 	export BOOKTOKEN_ADMIN=true
     export BOOKSTATUS_TOKEN=$(book token)
 	book getstatus
+	
+	status=$(book getstatus)
+	lastbooking=$(echo $status | jq '.last_booking_ends')
+    lastdate=$(date -d "@${lastbooking}")
+
+	echo "last booking ends iat: ${lastdate}"
+	
 elif [ "$command" = "t" ];
 then
 	mkdir -p ./tmp/tokens
