@@ -20,6 +20,9 @@ groups:
 
   spinnerv2-dev:
     pools:
+    - spinner-max-00
+    - spinner-max-01
+    - spinner-max-03
     - spinner-max-02      
     - spinner-max-08
     - spinner-max-09
@@ -28,9 +31,6 @@ groups:
     
   spinnerv2:
     pools:
-    - spinner-max-00
-    - spinner-max-01
-    - spinner-max-03
     - spinner-max-04
     - spinner-max-05
     - spinner-max-06
