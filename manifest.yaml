@@ -127,7 +127,7 @@ groups:
     
   truss:
     pools:
-      - truss-large
+      - truss-medium
 
   emag3:
     pools:
@@ -1498,6 +1498,27 @@ pools:
     maxsession: 7200
     activities:
     - truss-activity-00
+
+  truss-medium:
+    description:
+      name: Truss (Medium)
+      type: truss-pool-v1.0
+      short:  An acrylic six-member truss with variable load.
+      long:  An acrylic six-member truss with variable load controlled by a linear actuator.
+      further: https://static.practable.io/info/truss-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/truss-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/truss-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - truss-medium-activity-00
+    - truss-medium-activity-01
+    - truss-medium-activity-02
+    - truss-medium-activity-03
+    - truss-medium-activity-04
+    - truss-medium-activity-05
+    - truss-medium-activity-06
+    - truss-medium-activity-07
     
   turner-controls3:
     description:
@@ -3829,6 +3850,31 @@ activities:
     streams:
       data:
         for: data
+        url: https://relay-access.practable.io/session/trus99-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus00-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus99-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus00-video
+        verb: POST
+        scopes:
+        - read
+
+  truss-medium-activity-00:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
         url: https://relay-access.practable.io/session/trus00-data
         audience: https://relay-access.practable.io
         ct: session
@@ -3846,6 +3892,184 @@ activities:
         verb: POST
         scopes:
         - read
+
+  truss-medium-activity-01:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/trus01-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus01-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus01-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus01-video
+        verb: POST
+        scopes:
+        - read
+
+  truss-medium-activity-02:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/trus02-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus02-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus02-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus02-video
+        verb: POST
+        scopes:
+        - read
+
+
+  truss-medium-activity-03:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/trus03-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus03-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus03-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus03-video
+        verb: POST
+        scopes:
+        - read
+
+  truss-medium-activity-04:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/trus04-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus04-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus04-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus04-video
+        verb: POST
+        scopes:
+        - read
+
+  truss-medium-activity-05:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relayaccess.practable.io/session/trus05-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus05-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus05-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus05-video
+        verb: POST
+        scopes:
+        - read
+
+  truss-medium-activity-06:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/trus06-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus06-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus06-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus06-video
+        verb: POST
+        scopes:
+        - read
+
+
+  truss-medium-activity-07:
+    description: truss-activity-v1.0-medium
+    UISet: truss-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/trus07-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus07-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/trus07-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: trus07-video
+        verb: POST
+        scopes:
+        - read
+
 
   turner-activity-00:
     description: spinner-activity-v1.0-110g-metal
@@ -4866,6 +5090,14 @@ descriptions:
     long:  An acrylic six-member truss with variable load controlled by a stepper motor and worm-drive. Strain is reported from all members.       
     thumb: https://assets.practable.io/images/booking/activities/truss-real-1.0/thumb.png
     image: https://assets.practable.io/images/booking/activities/truss-real-1.0/image.png
+
+  truss-activity-v1.0-medium:
+    name: Truss (medium)
+    type: truss-activity-v1.0-medium
+    short:  An acrylic six-member truss with variable load.
+    long:  An acrylic six-member truss with variable load controlled by a linear actuator
+    thumb: https://assets.practable.io/images/booking/activities/truss-real-2.0/thumb.png
+    image: https://assets.practable.io/images/booking/activities/truss-real-2.0/image.png
     
   turner-activity-v1.0:      
     name: Turner
