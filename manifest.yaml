@@ -35,7 +35,7 @@ groups:
     - spinner-max-05
     - spinner-max-06
     - spinner-max-07
-
+    - penduinos
 
   controls3:
     pools:
@@ -52,6 +52,7 @@ groups:
   everyone:
     pools:
     - spinner-sim
+    - penduinos
     
   sutton:
     pools:
@@ -287,9 +288,7 @@ pools:
     - penduino-activity-03
     - penduino-activity-04
     - penduino-activity-05
-    - penduino-activity-06
     - penduino-activity-07
-    - penduino-activity-08
     - penduino-activity-10
     - penduino-activity-11
     - penduino-activity-12
