@@ -53,6 +53,10 @@ groups:
     pools:
     - spinner-sim
     - penduinos
+    - spinner-max-04
+    - spinner-max-05
+    - spinner-max-06
+    - spinner-max-07
     
   sutton:
     pools:
