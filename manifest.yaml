@@ -4004,7 +4004,7 @@ activities:
     streams:
       data:
         for: data
-        url: https://relayaccess.practable.io/session/trus05-data
+        url: https://relay-access.practable.io/session/trus05-data
         audience: https://relay-access.practable.io
         ct: session
         topic: trus05-data
