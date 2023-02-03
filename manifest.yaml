@@ -2797,6 +2797,10 @@ activities:
         audience: https://relay-access.practable.io
         ct: session
         topic: pend19-log
+        verb: POST
+        scopes:
+        - read
+        - write
         
   penduino-activity-25:
     description: penduino-activity-v1.0
@@ -2822,7 +2826,17 @@ activities:
         verb: POST
         scopes:
         - read
-
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend25-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend25-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
   pvna-activity-00:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna00-0.0.json
