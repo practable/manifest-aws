@@ -2125,6 +2125,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend00-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend00-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-01:
     description: penduino-activity-v1.0
@@ -2150,6 +2160,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend01-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend01-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-02:
     description: penduino-activity-v1.0
@@ -2175,6 +2195,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend02-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend02-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-03:
     description: penduino-activity-v1.0
@@ -2200,6 +2230,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend03-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend03-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-04:
     description: penduino-activity-v1.0
@@ -2225,6 +2265,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend04-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend04-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-05:
     description: penduino-activity-v1.0
@@ -2250,6 +2300,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend05-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend05-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-06:
     description: penduino-activity-v1.0
@@ -2275,6 +2335,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend06-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend06-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-07:
     description: penduino-activity-v1.0
@@ -2300,6 +2370,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend07-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend07-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-08:
     description: penduino-activity-v1.0
@@ -2325,6 +2405,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend08-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend08-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-09:
     description: penduino-activity-v1.0
@@ -2350,6 +2440,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend09-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend09-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-10:
     description: penduino-activity-v1.0
@@ -2375,6 +2475,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend10-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend10-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-11:
     description: penduino-activity-v1.0
@@ -2400,6 +2510,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend11-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend11-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-12:
     description: penduino-activity-v1.0
@@ -2425,6 +2545,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend12-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend12-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-13:
     description: penduino-activity-v1.0
@@ -2450,6 +2580,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend13-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend13-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-14:
     description: penduino-activity-v1.0
@@ -2475,6 +2615,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend14-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend14-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-15:
     description: penduino-activity-v1.0
@@ -2500,6 +2650,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend15-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend15-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-16:
     description: penduino-activity-v1.0
@@ -2525,6 +2685,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend16-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend16-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-17:
     description: penduino-activity-v1.0
@@ -2550,6 +2720,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend17-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend17-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
 
   penduino-activity-18:
@@ -2576,6 +2756,16 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend18-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend18-log
+        verb: POST
+        scopes:
+        - read
+        - write
 
   penduino-activity-19:
     description: penduino-activity-v1.0
@@ -2601,6 +2791,12 @@ activities:
         verb: POST
         scopes:
         - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend19-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend19-log
         
   penduino-activity-25:
     description: penduino-activity-v1.0
@@ -2626,7 +2822,7 @@ activities:
         verb: POST
         scopes:
         - read
-        
+
   pvna-activity-00:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna00-0.0.json
