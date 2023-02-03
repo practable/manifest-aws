@@ -32,8 +32,12 @@ groups:
     - spinner-max-09
     - spinner-max-10
     - spinner-max-11
-    
+
+
   spinnerv2:
+    pools:
+    
+  spinnerv2-off:
     pools:
     - spinner-max-04
     - spinner-max-05
