@@ -18,7 +18,11 @@ groups:
     pools:
     - spinner-49g-metal-develop
 
-  spinnerv2-dev-off:
+  southampton:
+    pools:
+    - pend25
+    
+  spinnerv2-dev:
     pools:
     - spinner-max-00
     - spinner-max-01
@@ -29,9 +33,7 @@ groups:
     - spinner-max-10
     - spinner-max-11
 
-  spinnerv2-dev:
-    pools:
-    
+
   spinnerv2:
     pools:
     
@@ -684,6 +686,24 @@ pools:
     maxsession: 7200
     activities:
     - penduino-activity-19
+    
+  pend25:
+    description:
+      name: Penduino 25
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-25
     
   pvna00:
     description:
@@ -2777,10 +2797,31 @@ activities:
         audience: https://relay-access.practable.io
         ct: session
         topic: pend19-log
+        
+  penduino-activity-25:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend25-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend25-data
         verb: POST
         scopes:
         - read
         - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend25-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend25-video
+        verb: POST
+        scopes:
+        - read
 
   pvna-activity-00:
     config:
