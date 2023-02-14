@@ -290,10 +290,7 @@ pools:
     minsession: 2
     maxsession: 7200
     activities:
-    - penduino-activity-00
-    - penduino-activity-01
     - penduino-activity-02
-    - penduino-activity-03
     - penduino-activity-04
     - penduino-activity-05
     - penduino-activity-07
