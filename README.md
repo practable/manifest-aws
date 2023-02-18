@@ -7,45 +7,30 @@ This repo contains the latest version of the manifest for the live service, and 
 
 These scripts are intended for use on linux systems. Windows is not not currently supported. MacOS may work (untested).
 
+### golang
+
+Install the latest stable version of golang. [Instructions in full](https://go.dev/doc/install)
+
+Usually something like this:
+
+```
+$ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+```
+then add to `$HOME/.profile` or `/etc/profile`
+```
+export PATH=$PATH:/usr/local/go/bin
+```
+
 ### practable/relay/book
 
-Build the `book` command from [relay](https://github.com/practable/relay.git) and put on your path, e.g. `/usr/local/bin`
+In the root of this repo, run the install script
 
 ```
-git clone https://github.com/practable/relay.git
-cd relay/cmd/book
-go build
-sudo cp book /usr/local/bin
+./install.sh
 ```
 
-check it exists:
-```
-$ book
-Book provides commands for a booking server and client, including 
-managing instant-access bookings for equipment, uploading bookings, resetting
-the booking server, getting the booking server status, and generating new
-tokens to access the booking server.
+This creates a local copy of the correct version of the book command from [github.com/practable/relay@v0.2.3](https://github.com/practable/relay/releases/tag/v0.2.3) and puts it in the location the scripts are expecting to call it from.
 
-Usage:
-  book [command]
-
-Available Commands:
-  completion  Generate the autocompletion script for the specified shell
-  getstatus   Get the lock status and message of the day
-  help        Help about any command
-  reset       Delete all activities, pools and groups in the booking server.
-  serve       Start the booking server
-  setstatus   Set the lock status and message of the day
-  token       session token generates a new token for authenticating to book
-  upload      Upload a manifest of activities, pools and groups to booking server
-
-Flags:
-      --config string   config file (default is $HOME/.book.yaml)
-  -h, --help            help for book
-  -t, --toggle          Help message for toggle
-
-Use "book [command] --help" for more information about a command.
-```
 
 ### JQ
 
