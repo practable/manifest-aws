@@ -1,3 +1,5 @@
 secret/
 *~
 temp/
+bin/
+.source/

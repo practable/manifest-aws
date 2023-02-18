@@ -16,7 +16,7 @@ export BOOK_LOGINTIME=3600
 export BOOK_FQDN=localhost
 export BOOK_SECRET=testing
 
-book serve &
+./bin/book serve &
 book_pid=$! 
 
 # pad base64URL encoded to base64
@@ -42,7 +42,7 @@ export BOOKTOKEN_AUDIENCE=localhost
 export BOOKTOKEN_LIFETIME=86400
 export BOOKTOKEN_GROUPS="everyone controls3 develop"
 export BOOKTOKEN_ADMIN=true
-export BOOKUPLOAD_TOKEN=$(book token)
+export BOOKUPLOAD_TOKEN=$(./bin/book token)
 echo "Admin token:"
 echo ${BOOKUPLOAD_TOKEN}
 
@@ -57,8 +57,8 @@ echo $p | base64 -d | jq
 
 # generate user token
 export BOOKTOKEN_ADMIN=false
-export USERTOKEN=$(book token)
-export BOOKJS_USERTOKEN=$(book token)
+export USERTOKEN=$(./bin/book token)
+export BOOKJS_USERTOKEN=$(./bin/book token)
 echo "User token:"
 echo ${BOOKJS_USERTOKEN}
 
@@ -108,27 +108,27 @@ then
 elif [ "$command" = "l" ];
 then
 	export BOOKTOKEN_ADMIN=true
-    export BOOKSTATUS_TOKEN=$(book token)
+    export BOOKSTATUS_TOKEN=$(./bin/book token)
 	read -p 'Enter lock message:' message
-	book setstatus lock "$message"
+	./bin/book setstatus lock "$message"
 elif [ "$command" = "n" ];
 then
 	export BOOKTOKEN_ADMIN=true
-    export BOOKSTATUS_TOKEN=$(book token)
+    export BOOKSTATUS_TOKEN=$(./bin/book token)
 	read -p 'Enter unlock message:' message
-	book setstatus unlock "$message"
+	./bin/book setstatus unlock "$message"
 elif [ "$command" = "r" ];
 then
 	export BOOKTOKEN_ADMIN=true
-    export BOOKRESET_TOKEN=$(book token)
-    book reset
+    export BOOKRESET_TOKEN=$(./bin/book token)
+    ./bin/book reset
 elif [ "$command" = "s" ];
 then
 	export BOOKTOKEN_ADMIN=true
-    export BOOKSTATUS_TOKEN=$(book token)
-	book getstatus
+    export BOOKSTATUS_TOKEN=$(./bin/book token)
+	./bin/book getstatus
 	
-	status=$(book getstatus)
+	status=$(./bin/book getstatus)
 	lastbooking=$(echo $status | jq '.last_booking_ends')
     lastdate=$(date -d "@${lastbooking}")
 
@@ -148,8 +148,8 @@ then
 	if ([ "$confirm" == "y" ] || [ "$confirm" == "Y" ]  || [ "$confirm" == "yes"  ] );
 	then
 		export BOOKTOKEN_ADMIN=true
-		export BOOKUPLOAD_TOKEN=$(book token)
-		book upload manifest.yaml
+		export BOOKUPLOAD_TOKEN=$(./bin/book token)
+		./bin/book upload manifest.yaml
 	else
 		echo "wise choice, aborting"
 	fi
