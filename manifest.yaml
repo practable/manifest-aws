@@ -133,6 +133,22 @@ groups:
       - pend17
       - pend18
       - pend19
+      - pend20
+      - pend21
+      - pend22
+      - pend23
+      - pend26
+      - pend27
+      - pend28
+      - pend29
+      - pend31
+      - pend32
+      - pend33
+      - pend34
+      - pend35
+      - pend36
+      - pend37
+      
     
   truss:
     pools:
@@ -684,6 +700,96 @@ pools:
     activities:
     - penduino-activity-19
     
+  pend20:
+    description:
+      name: Penduino 20
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-20
+    
+  pend21:
+    description:
+      name: Penduino 21
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-21
+    
+  pend22:
+    description:
+      name: Penduino 22
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-22
+    
+  pend23:
+    description:
+      name: Penduino 23
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-23
+    
+  pend24:
+    description:
+      name: Penduino 24
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-24
+    
   pend25:
     description:
       name: Penduino 25
@@ -701,6 +807,222 @@ pools:
     maxsession: 7200
     activities:
     - penduino-activity-25
+    
+  pend26:
+    description:
+      name: Penduino 26
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-26
+    
+  pend27:
+    description:
+      name: Penduino 27
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-27
+    
+  pend28:
+    description:
+      name: Penduino 28
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-28
+    
+  pend29:
+    description:
+      name: Penduino 29
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-29
+    
+  pend30:
+    description:
+      name: Penduino 30
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-30
+    
+  pend31:
+    description:
+      name: Penduino 31
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-31
+    
+  pend32:
+    description:
+      name: Penduino 32
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-32
+    
+  pend33:
+    description:
+      name: Penduino 33
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-33
+    
+  pend34:
+    description:
+      name: Penduino 34
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-34
+    
+  pend35:
+    description:
+      name: Penduino 35
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-35
+    
+  pend36:
+    description:
+      name: Penduino 36
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-36
+    
+  pend37:
+    description:
+      name: Penduino 37
+      type: penduino-pool-v1.0
+      short: A pendulum driven by an electromagnet, producing simple harmonic motion.
+      long: A single pendulum with electromagnetic drive system producing simple harmonic
+        motion. The drive and braking are variable, with the coil energised over a specified
+        angular range which can be increased or decreased to control the effect. The pendulum can
+        also be slowed down by short-circuiting the coil, without applying any power,
+        or left to swing freely with no drive or braking.
+      further: https://static.practable.io/info/penduino-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/penduino-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/penduino-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - penduino-activity-37
     
   pvna00:
     description:
@@ -2799,6 +3121,181 @@ activities:
         - read
         - write
         
+  penduino-activity-20:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend20-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend20-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend20-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend20-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend20-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend20-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-21:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend21-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend21-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend21-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend21-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend21-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend21-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-22:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend22-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend22-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend22-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend22-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend22-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend22-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-23:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend23-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend23-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend23-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend23-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend23-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend23-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-24:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend24-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend24-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend24-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend24-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend24-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend24-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
   penduino-activity-25:
     description: penduino-activity-v1.0
     UISet: penduino
@@ -2829,6 +3326,426 @@ activities:
         audience: https://relay-access.practable.io
         ct: session
         topic: pend25-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-26:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend26-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend26-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend26-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend26-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend26-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend26-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-27:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend27-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend27-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend27-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend27-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend27-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend27-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-28:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend28-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend28-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend28-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend28-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend28-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend28-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-29:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend29-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend29-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend29-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend29-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend29-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend29-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-30:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend30-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend30-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend30-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend30-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend30-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend30-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-31:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend31-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend31-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend31-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend31-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend31-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend31-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-32:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend32-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend32-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend32-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend32-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend32-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend32-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-33:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend33-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend33-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend33-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend33-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend33-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend33-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-34:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend34-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend34-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend34-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend34-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend34-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend34-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-35:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend35-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend35-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend35-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend35-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend35-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend35-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-36:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend36-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend36-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend36-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend36-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend36-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend36-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  penduino-activity-37:
+    description: penduino-activity-v1.0
+    UISet: penduino
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pend37-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend37-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pend37-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend37-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/pend37-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pend37-log
         verb: POST
         scopes:
         - read
