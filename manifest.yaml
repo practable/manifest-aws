@@ -148,6 +148,54 @@ groups:
       - pend35
       - pend36
       - pend37
+      - spinner-max-00
+      - spinner-max-01
+      - spinner-max-02
+      - spinner-max-03
+      - spinner-max-04
+      - spinner-max-05
+      - spinner-max-06
+      - spinner-max-07
+      - spinner-max-08
+      - spinner-max-09
+      - spinner-max-10
+      - spinner-max-11
+      - spinner-max-12
+      - spinner-max-13
+      - spinner-max-14
+      - spinner-max-15
+      - spinner-max-16
+      - spinner-max-17
+      - spinner-max-18
+      - spinner-max-19
+      - spinner-max-20
+      - spinner-max-21
+      - spinner-max-22
+      - spinner-max-23
+      - spinner-max-24
+      - spinner-max-25
+      - spinner-max-26
+      - spinner-max-27
+      - spinner-max-28
+      - spinner-max-29
+      - spinner-max-30
+      - spinner-max-31
+      - spinner-max-32
+      - spinner-max-33
+      - spinner-max-34
+      - spinner-max-35
+      - spinner-max-36
+      - spinner-max-37
+      - spinner-max-38
+      - spinner-max-39
+      - spinner-max-40
+      - spinner-max-41
+      - spinner-max-42
+      - spinner-max-43
+      - spinner-max-44
+      - spinner-max-45
+      - spinner-max-46
+      - spinner-max-47
       
     
   truss:
@@ -1828,6 +1876,511 @@ pools:
     maxsession: 7200
     activities:
     - spinner-activity-41
+    
+  spinner-max-12:
+    description:
+      name: Spinner 2.0 (#12)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-42
+    
+  spinner-max-13:
+    description:
+      name: Spinner 2.0 (#13)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-43
+    
+  spinner-max-14:
+    description:
+      name: Spinner 2.0 (#14)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-44
+    
+  spinner-max-15:
+    description:
+      name: Spinner 2.0 (#15)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-45
+    
+  spinner-max-16:
+    description:
+      name: Spinner 2.0 (#16)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-46
+    
+  spinner-max-17:
+    description:
+      name: Spinner 2.0 (#17)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-47
+    
+  spinner-max-18:
+    description:
+      name: Spinner 2.0 (#18)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-48
+    
+  spinner-max-19:
+    description:
+      name: Spinner 2.0 (#19)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-49
+    
+  spinner-max-20:
+    description:
+      name: Spinner 2.0 (#20)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-50
+    
+  spinner-max-21:
+    description:
+      name: Spinner 2.0 (#21)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-51
+    
+  spinner-max-22:
+    description:
+      name: Spinner 2.0 (#22)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-52
+    
+  spinner-max-23:
+    description:
+      name: Spinner 2.0 (#23)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-53
+    
+  spinner-max-24:
+    description:
+      name: Spinner 2.0 (#24)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-54
+    
+  spinner-max-25:
+    description:
+      name: Spinner 2.0 (#25)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-55
+    
+  spinner-max-26:
+    description:
+      name: Spinner 2.0 (#26)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-56
+    
+  spinner-max-27:
+    description:
+      name: Spinner 2.0 (#27)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-57
+    
+  spinner-max-28:
+    description:
+      name: Spinner 2.0 (#28)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-58
+    
+  spinner-max-29:
+    description:
+      name: Spinner 2.0 (#29)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-59
+    
+  spinner-max-30:
+    description:
+      name: Spinner 2.0 (#30)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-60
+    
+  spinner-max-31:
+    description:
+      name: Spinner 2.0 (#31)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-61
+    
+  spinner-max-32:
+    description:
+      name: Spinner 2.0 (#32)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-62
+   
+  spinner-max-33:
+    description:
+      name: Spinner 2.0 (#33)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-63
+    
+  spinner-max-34:
+    description:
+      name: Spinner 2.0 (#34)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-64
+    
+  spinner-max-35:
+    description:
+      name: Spinner 2.0 (#35)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-65
+    
+  spinner-max-36:
+    description:
+      name: Spinner 2.0 (#36)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-66
+    
+  spinner-max-37:
+    description:
+      name: Spinner 2.0 (#37)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-67
+    
+  spinner-max-38:
+    description:
+      name: Spinner 2.0 (#38)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-68
+    
+  spinner-max-39:
+    description:
+      name: Spinner 2.0 (#39)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-69
+    
+  spinner-max-40:
+    description:
+      name: Spinner 2.0 (#40)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-70
+    
+  spinner-max-41:
+    description:
+      name: Spinner 2.0 (#41)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-71
+    
+  spinner-max-42:
+    description:
+      name: Spinner 2.0 (#42)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-72
+   
+  spinner-max-43:
+    description:
+      name: Spinner 2.0 (#43)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-73
+    
+  spinner-max-44:
+    description:
+      name: Spinner 2.0 (#44)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-74
+    
+  spinner-max-45:
+    description:
+      name: Spinner 2.0 (#45)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-75
+    
+  spinner-max-46:
+    description:
+      name: Spinner 2.0 (#46)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-76
+    
+  spinner-max-47:
+    description:
+      name: Spinner 2.0 (#47)
+      type: spinner-pool-v2.0
+      short:  A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.
+      long: A DC-motor driving a weighted spinning disk, which takes time to spin up to speed.The weight is provided by loading the disk with an equal amount of coins in each of the four slots.
+      further: https://static.practable.io/info/spinner-real-2.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/spinner-real-2.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/spinner-real-2.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - spinner-activity-77
+   
 
   truss-large:
     description:
@@ -4510,6 +5063,1268 @@ activities:
         scopes:
         - read
         - write
+        
+  spinner-activity-42:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin42-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin42-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin42-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin42-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin42-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin42-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-43:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin43-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin43-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin43-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin43-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin43-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin43-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-44:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin44-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin44-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin44-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin44-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin44-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin44-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-45:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin45-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin45-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin45-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin45-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin45-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin45-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-46:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin46-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin46-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin46-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin46-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin46-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin46-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-47:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin47-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin47-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin47-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin47-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin47-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin47-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-48:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin48-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin48-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin48-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin48-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin48-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin48-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-49:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin49-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin49-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin49-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin49-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin49-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin49-log
+        verb: POST
+        scopes:
+        - read
+        - write
+  
+  spinner-activity-50:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin50-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin50-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin50-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin50-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin50-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin50-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-51:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin51-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin51-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin51-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin51-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin51-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin51-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-52:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin52-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin52-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin52-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin52-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin52-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin52-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-53:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin53-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin53-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin53-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin53-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin53-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin53-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-54:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin54-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin54-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin54-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin54-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin54-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin54-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-55:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin55-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin55-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin55-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin55-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin55-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin55-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-56:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin56-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin56-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin56-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin56-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin56-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin56-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-57:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin57-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin57-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin57-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin57-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin57-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin57-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-58:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin58-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin58-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin58-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin58-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin58-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin58-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-59:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin59-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin59-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin59-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin59-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin59-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin59-log
+        verb: POST
+        scopes:
+        - read
+        - write
+     
+  spinner-activity-60:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin60-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin60-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin60-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin60-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin60-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin60-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-61:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin61-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin61-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin61-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin61-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin61-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin61-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-62:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin62-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin62-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin62-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin62-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin62-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin62-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-63:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin63-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin63-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin63-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin63-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin63-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin63-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-64:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin64-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin64-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin64-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin64-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin64-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin64-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-65:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin65-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin65-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin65-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin65-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin65-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin65-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-66:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin66-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin66-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin66-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin66-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin66-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin66-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-67:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin67-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin67-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin67-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin67-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin67-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin67-log
+        verb: POST
+        scopes:
+        - read
+        - write
+    
+  spinner-activity-68:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin68-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin68-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin68-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin68-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin68-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin68-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-69:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin69-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin69-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin69-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin69-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin69-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin69-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-70:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin70-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin70-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin70-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin70-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin70-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin70-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-71:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin71-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin71-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin71-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin71-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin71-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin71-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-72:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin72-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin72-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin72-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin72-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin72-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin72-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-73:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin73-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin73-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin73-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin73-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin73-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin73-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-74:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin74-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin74-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin74-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin74-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin74-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin74-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-75:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin75-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin75-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin75-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin75-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin75-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin75-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-76:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin76-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin76-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin76-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin76-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin76-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin76-log
+        verb: POST
+        scopes:
+        - read
+        - write
+        
+  spinner-activity-77:
+    description: spinner-activity-v2.0-default
+    UISet: spinner-v2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/spin77-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin77-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/spin77-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin77-video
+        verb: POST
+        scopes:
+        - read
+      log:
+        for: log
+        url: https://relay-access.practable.io/session/spin77-log
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: spin77-log
+        verb: POST
+        scopes:
+        - read
+        - write
+           
+     
         
   spinner-sim-00:
     description: spinner-sim-v1.0
