@@ -4926,7 +4926,7 @@ activities:
         
   spinner-activity-38:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -4961,7 +4961,7 @@ activities:
         
   spinner-activity-39:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -4996,7 +4996,7 @@ activities:
         
   spinner-activity-40:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5031,7 +5031,7 @@ activities:
         
   spinner-activity-41:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5066,7 +5066,7 @@ activities:
         
   spinner-activity-42:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5101,7 +5101,7 @@ activities:
         
   spinner-activity-43:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5136,7 +5136,7 @@ activities:
         
   spinner-activity-44:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5171,7 +5171,7 @@ activities:
         
   spinner-activity-45:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5206,7 +5206,7 @@ activities:
         
   spinner-activity-46:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5241,7 +5241,7 @@ activities:
         
   spinner-activity-47:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5276,7 +5276,7 @@ activities:
         
   spinner-activity-48:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5311,7 +5311,7 @@ activities:
         
   spinner-activity-49:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5346,7 +5346,7 @@ activities:
   
   spinner-activity-50:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5381,7 +5381,7 @@ activities:
         
   spinner-activity-51:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5416,7 +5416,7 @@ activities:
         
   spinner-activity-52:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5451,7 +5451,7 @@ activities:
         
   spinner-activity-53:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5486,7 +5486,7 @@ activities:
         
   spinner-activity-54:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5521,7 +5521,7 @@ activities:
         
   spinner-activity-55:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5556,7 +5556,7 @@ activities:
         
   spinner-activity-56:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5591,7 +5591,7 @@ activities:
         
   spinner-activity-57:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5626,7 +5626,7 @@ activities:
         
   spinner-activity-58:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5661,7 +5661,7 @@ activities:
         
   spinner-activity-59:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5696,7 +5696,7 @@ activities:
      
   spinner-activity-60:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5731,7 +5731,7 @@ activities:
         
   spinner-activity-61:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5766,7 +5766,7 @@ activities:
         
   spinner-activity-62:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5801,7 +5801,7 @@ activities:
         
   spinner-activity-63:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5836,7 +5836,7 @@ activities:
         
   spinner-activity-64:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5871,7 +5871,7 @@ activities:
         
   spinner-activity-65:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5906,7 +5906,7 @@ activities:
         
   spinner-activity-66:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5941,7 +5941,7 @@ activities:
         
   spinner-activity-67:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -5976,7 +5976,7 @@ activities:
     
   spinner-activity-68:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6011,7 +6011,7 @@ activities:
         
   spinner-activity-69:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6046,7 +6046,7 @@ activities:
         
   spinner-activity-70:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6081,7 +6081,7 @@ activities:
         
   spinner-activity-71:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6116,7 +6116,7 @@ activities:
         
   spinner-activity-72:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6151,7 +6151,7 @@ activities:
         
   spinner-activity-73:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6186,7 +6186,7 @@ activities:
         
   spinner-activity-74:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6221,7 +6221,7 @@ activities:
         
   spinner-activity-75:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6256,7 +6256,7 @@ activities:
         
   spinner-activity-76:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -6291,7 +6291,7 @@ activities:
         
   spinner-activity-77:
     description: spinner-activity-v2.0-default
-    UISet: spinner-v2-dev
+    UISet: spinner-v2
     exp: 	1685638022
     streams:
       data:
@@ -7306,6 +7306,30 @@ activities:
         - read
         
 uis:
+  analytics-pend-ui-1.0:    
+    description:
+      name: Analytics UI (Pendulum)
+      type: analytics-pend-ui-1.0
+      short: Analyse your interactions with this pendulum experiment
+      long: Analyse your interactions with this pendulum experiment
+      further: https://static.practable.io/info/analytics-pend-ui-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/ui/analytics-pend-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/ui/analytics-pend-1.0/image.png
+    url: https://static.practable.io/ui/analytics-pend-1.0/?streams={{streams}}&exp={{exp}}
+    streamsrequired:
+    - log
+  analytics-spin-ui-1.0:    
+    description:
+      name: Analytics UI (Spinner)
+      type: analytics-spin-ui-1.0
+      short: Analyse your interactions with this spinner experiment
+      long: Analyse your interactions with this spinner experiment
+      further: https://static.practable.io/info/analytics-pend-ui-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/ui/analytics-spin-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/ui/analytics-spin-1.0/image.png
+    url: https://static.practable.io/ui/analytics-spin-1.0/?streams={{streams}}&exp={{exp}}
+    streamsrequired:
+    - log    
   camera-test-ui-1.0:    
     description:
       name: Camera Test
@@ -7687,6 +7711,7 @@ UISets:
 
   penduino:
   - penduino-default-ui-1.0
+  - analytics-pend-ui-1.0
   
   penduino-dev:
   - penduino-default-ui-1.0
@@ -7711,6 +7736,7 @@ UISets:
 
   spinner-v2:
   - spinner-default-ui-2.0-view0
+  - analytics-spin-ui-1.0
 
   spinner-v2-dev:
   - spinner-default-ui-2.0-view0
