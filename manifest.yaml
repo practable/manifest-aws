@@ -1,4 +1,91 @@
 groups:
+  
+  engdes1:
+    pools:
+      
+  engdes1-offline:
+    pools:
+      - pend00
+      - pend02
+      - pend03
+      - pend04
+      - pend05
+      - pend06
+      - pend07
+      - pend08
+      - pend09
+      - pend10
+      - pend11
+      - pend12
+      - pend13
+      - pend14
+      - pend15
+      - pend16
+      - pend17
+      - pend18
+      - pend19
+      - pend20
+      - pend21
+      - pend22
+      - pend23
+      - pend25     
+      - pend26
+      - pend27
+      - pend28
+      - pend29
+      - pend31
+      - pend32
+      - pend33
+      - pend34
+      - pend35
+      - spinner-max-00
+      - spinner-max-01
+      - spinner-max-02
+      - spinner-max-03
+      - spinner-max-04
+      - spinner-max-05
+      - spinner-max-06
+      - spinner-max-07
+      - spinner-max-08
+      - spinner-max-09
+      - spinner-max-10
+      - spinner-max-11
+      - spinner-max-12
+      - spinner-max-13
+      - spinner-max-14
+      - spinner-max-15
+      - spinner-max-16
+      - spinner-max-17
+      - spinner-max-18
+      - spinner-max-19
+      - spinner-max-20
+      - spinner-max-21
+      - spinner-max-22
+      - spinner-max-23
+      - spinner-max-24
+      - spinner-max-25
+      - spinner-max-26
+      - spinner-max-27
+      - spinner-max-28
+      - spinner-max-29
+      - spinner-max-30
+      - spinner-max-31
+      - spinner-max-32
+      - spinner-max-33
+      - spinner-max-34
+      - spinner-max-35
+      - spinner-max-36
+      - spinner-max-37
+      - spinner-max-38
+      - spinner-max-39
+      - spinner-max-40
+      - spinner-max-41
+      - spinner-max-42
+      - spinner-max-43
+      - spinner-max-44
+      - spinner-max-45
+      - spinner-max-46
+      - spinner-max-47      
   develop:
     pools:
     - odroid  
@@ -60,8 +147,7 @@ groups:
   everyone:
     pools:
     - spinner-sim
-    - penduinos
-    
+      
   sutton:
     pools:
     - penduinos  
