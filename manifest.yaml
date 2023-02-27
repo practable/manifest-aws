@@ -4394,7 +4394,7 @@ activities:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna00-0.0.json
     description: pvna-activity-v1.0
-    UISet: pvna-dev
+    UISet: pvna
     exp: 	1685638022
     streams:
       data:
@@ -4412,7 +4412,7 @@ activities:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna01-0.0.json
     description: pvna-activity-v1.0
-    UISet: pvna-dev
+    UISet: pvna
     exp: 	1685638022
     streams:
       data:
@@ -4430,7 +4430,7 @@ activities:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna02-0.0.json
     description: pvna-activity-v1.0
-    UISet: pvna-dev
+    UISet: pvna
     exp: 	1685638022
     streams:
       data:
@@ -4448,7 +4448,7 @@ activities:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna03-0.0.json
     description: pvna-activity-v1.0
-    UISet: pvna-dev
+    UISet: pvna
     exp: 	1685638022
     streams:
       data:
@@ -4466,7 +4466,7 @@ activities:
     config:
       url: https://assets.practable.io/config/experiments/pvna/pvna04-0.0.json
     description: pvna-activity-v1.0
-    UISet: pvna-dev
+    UISet: pvna
     exp: 	1685638022
     streams:
       data:
@@ -7807,6 +7807,7 @@ UISets:
   
   pvna:
   - pvna-default-ui-1.0
+  - dev-pvna-ui-1.0
   
   pvna-dev:
   - pvna-default-ui-1.0
