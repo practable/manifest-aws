@@ -295,7 +295,10 @@ groups:
       - pvna02
       - pvna03
       - pvna04
-
+      
+  emag5:
+    pools:
+      - pvna05
 
 pools:
   camera-test-A:
@@ -1227,6 +1230,21 @@ pools:
     maxsession: 7200
     activities:
     - pvna-activity-04
+
+  pvna05:
+    description:
+      name: PVNA 05
+      type: pvna-pool-v1.0
+      short: A pocketVNA connected to two-port circuits
+      long: A pocketVNA connected to two-port circuits
+      further: https://static.practable.io/info/camera-test-real-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/pools/pvna-real-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/pools/pvna-real-1.0/image.png
+    minsession: 2
+    maxsession: 7200
+    activities:
+    - pvna-activity-05
+    
     
   spinner-sim:
     description:
@@ -4479,7 +4497,34 @@ activities:
         scopes:
         - read
         - write
-
+        
+  pvna-activity-05:
+    config:
+      url: https://assets.practable.io/config/experiments/pvna/pvna05-0.0.json
+    description: pvna-activity-v1.0
+    UISet: pvna2-dev
+    exp: 	1685638022
+    streams:
+      data:
+        for: data
+        url: https://relay-access.practable.io/session/pvna05-data
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pvna05-data
+        verb: POST
+        scopes:
+        - read
+        - write
+      video:
+        for: video
+        url: https://relay-access.practable.io/session/pvna05-video
+        audience: https://relay-access.practable.io
+        ct: session
+        topic: pvna05-video
+        verb: POST
+        scopes:
+        - read
+        
   spinner-activity-00:
     description: spinner-activity-v1.0
     UISet: spinner-v0
@@ -7548,6 +7593,34 @@ uis:
     streamsrequired:
     - data
     
+  pvna2-default-ui-1.0:
+    description:
+      name: PocketVNA Two-Port (Default)
+      type: pvna-default-ui-1.0
+      short: Read two-port S-parameters from pocketVNA
+      long: Read two-port S-parameters from pocketVNA, and plot them as a function of frequency
+      further: https://static.practable.io/info/pvna-basic-ui-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/ui/pvna-default-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/ui/pvna-default-1.0/image.png
+    url: https://static.practable.io/ui/pvna2-1.0/?config={{config}}&streams={{streams}}&exp={{exp}}
+    streamsrequired:
+    - data
+    - video
+ 
+  dev-pvna2-ui-1.0:
+    description:
+      name: PocketVNA Two-Port (Develop)
+      type: dev-pvna-ui-1.0
+      short: Read two-port S-parameters from pocketVNA
+      long: Read two-port S-parameters from pocketVNA, and plot them as a function of frequency
+      further: https://static.practable.io/info/pvna-basic-ui-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/ui/pvna-default-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/ui/pvna-default-1.0/image.png
+    url: https://dev-static.practable.io/ui/pvna2-1.0/?config={{config}}&streams={{streams}}&exp={{exp}}
+    streamsrequired:
+    - data
+    - video
+    
   spinner-default-ui-1.0-view0:
     description:
       name: Spinner (Default)
@@ -7808,6 +7881,12 @@ UISets:
   pvna:
   - pvna-default-ui-1.0
   - dev-pvna-ui-1.0
+
+  pvna2-dev:
+  - pvna2-default-ui-1.0
+  - debug-ui-1.0
+  - dev-debug-ui-1.0
+  - dev-pvna2-ui-1.0
   
   pvna-dev:
   - pvna-default-ui-1.0
