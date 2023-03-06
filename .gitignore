@@ -3,3 +3,4 @@ secret/
 temp/
 bin/
 .source/
+nohup.out
