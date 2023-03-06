@@ -5,7 +5,7 @@
 # book.practable.io
 
 
-export BOOK_SECRET=$(cat ./secret/book.pat)
+export BOOK_SECRET=$(cat ~/secret/book.pat)
 
 #https://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in-bash
 # want to check if it is empty, will always be set, so no +x
