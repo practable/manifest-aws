@@ -7811,6 +7811,20 @@ uis:
     - data
     - video
     
+  truss-open-day-ui-1.0:    
+    description:
+      name: Truss (Open Day)
+      type: dev-truss-open-day-ui-1.0
+      short: Control the load on a six-member truss and read the strain sensors.
+      long:  Strain is reported for each member of a six-member truss. The load on the truss is controlled by a stepper motor. 
+      further: https://static.practable.io/info/truss-default-ui-1.0/index.html
+      thumb: https://assets.practable.io/images/booking/ui/truss-open-day-1.0/thumb.png
+      image: https://assets.practable.io/images/booking/ui/truss-open-day-1.0/image.png
+    url: https://static.practable.io/ui/truss-open-day-1.0/?streams={{streams}}&exp={{exp}}
+    streamsrequired:
+    - data
+    - video
+    
   turner-default-ui-1.0:    
     description:
       name: Turner (Default)
@@ -7948,6 +7962,7 @@ UISets:
 
   truss-student:
   - truss-noforce-ui-1.0
+  - truss-open-day-ui-1.0
   
   truss-dev:
   - truss-default-ui-1.0
