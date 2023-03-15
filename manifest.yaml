@@ -2516,10 +2516,6 @@ pools:
     - truss-medium-activity-01
     - truss-medium-activity-02
     - truss-medium-activity-03
-    - truss-medium-activity-04
-    - truss-medium-activity-05    
-    - truss-medium-activity-06
-    - truss-medium-activity-07
     
   turner-controls3:
     description:
